@@ -1,0 +1,6 @@
+C:\Users\Crogogo\Documents\SharpDevelop Projects\TwoDThreeD\TwoDThreeD\bin\Release\TwoDThreeD.exe.config
+C:\Users\Crogogo\Documents\SharpDevelop Projects\TwoDThreeD\TwoDThreeD\bin\Release\TwoDThreeD.exe
+C:\Users\Crogogo\Documents\SharpDevelop Projects\TwoDThreeD\TwoDThreeD\obj\Release\TwoDThreeD.MainForm.resources
+C:\Users\Crogogo\Documents\SharpDevelop Projects\TwoDThreeD\TwoDThreeD\obj\Release\TwoDThreeD.textoutput.resources
+C:\Users\Crogogo\Documents\SharpDevelop Projects\TwoDThreeD\TwoDThreeD\obj\Release\TwoDThreeD.csproj.GenerateResource.Cache
+C:\Users\Crogogo\Documents\SharpDevelop Projects\TwoDThreeD\TwoDThreeD\obj\Release\TwoDThreeD.exe

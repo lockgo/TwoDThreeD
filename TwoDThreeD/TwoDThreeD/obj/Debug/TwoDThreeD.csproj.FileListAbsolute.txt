@@ -1,0 +1,9 @@
+C:\Users\Crogogo\Documents\SharpDevelop Projects\TwoDThreeD\TwoDThreeD\obj\Debug\TwoDThreeD.csprojResolveAssemblyReference.cache
+C:\Users\Crogogo\Documents\SharpDevelop Projects\TwoDThreeD\TwoDThreeD\obj\Debug\TwoDThreeD.MainForm.resources
+C:\Users\Crogogo\Documents\SharpDevelop Projects\TwoDThreeD\TwoDThreeD\obj\Debug\TwoDThreeD.csproj.GenerateResource.Cache
+C:\Users\Crogogo\Documents\SharpDevelop Projects\TwoDThreeD\TwoDThreeD\bin\Debug\TwoDThreeD.exe.config
+C:\Users\Crogogo\Documents\SharpDevelop Projects\TwoDThreeD\TwoDThreeD\bin\Debug\TwoDThreeD.exe
+C:\Users\Crogogo\Documents\SharpDevelop Projects\TwoDThreeD\TwoDThreeD\bin\Debug\TwoDThreeD.pdb
+C:\Users\Crogogo\Documents\SharpDevelop Projects\TwoDThreeD\TwoDThreeD\obj\Debug\TwoDThreeD.exe
+C:\Users\Crogogo\Documents\SharpDevelop Projects\TwoDThreeD\TwoDThreeD\obj\Debug\TwoDThreeD.pdb
+C:\Users\Crogogo\Documents\SharpDevelop Projects\TwoDThreeD\TwoDThreeD\obj\Debug\TwoDThreeD.textoutput.resources
